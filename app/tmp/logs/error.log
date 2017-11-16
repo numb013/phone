@@ -45615,3 +45615,21 @@ Request URL: /phone/js/jquery-2.2.3.min.js
 Stack Trace:
 #0 C:\xampp\htdocs\phone\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2017-11-16 04:40:37 Error: [MissingControllerException] Controller class DetailController could not be found.
+Exception Attributes: array (
+  'class' => 'DetailController',
+  'plugin' => NULL,
+)
+Request URL: /phone/detail
+Stack Trace:
+#0 C:\xampp\htdocs\phone\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-16 04:40:50 Error: [MissingControllerException] Controller class ListController could not be found.
+Exception Attributes: array (
+  'class' => 'ListController',
+  'plugin' => NULL,
+)
+Request URL: /phone/list
+Stack Trace:
+#0 C:\xampp\htdocs\phone\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

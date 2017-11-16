@@ -21,8 +21,10 @@
                                 </ul>
 
                         </footer>
-                        <div id="simulation"></div>
                 </article>
+
+
+
 
 
 
@@ -41,12 +43,12 @@
                                     <article class="mini-burdent mini-post">
                                             <header>
                                                     <h3><?php echo $data['Home']['description2']; ?></h3>
-<div>
-    <ul class='graph'>
-        <li><span style='color: #e2a9c8; font-size: 33px'>■</span>:携帯電話配布率</li>
-        <li><span style='color: #a5d4f4; font-size: 33px'>■</span>:スマホの配布率</li>
-    </ul>
-</div>
+                                            <div>
+                                                <ul class='graph'>
+                                                    <li><span style='color: #e2a9c8; font-size: 33px'>■</span>:携帯電話配布率</li>
+                                                    <li><span style='color: #a5d4f4; font-size: 33px'>■</span>:スマホの配布率</li>
+                                                </ul>
+                                            </div>
                                             </header>
                                             <canvas id="bar-chart"></canvas>
                                     </article>
@@ -56,7 +58,7 @@
                                             </header>
                                             <canvas id="line-chart"></canvas>
                                     </article>
-                                    <span id="step"></span>
+                                <span id="simulation"></span>
                                 </div>
                             </div>
                     </section>
@@ -80,6 +82,7 @@
                                 <label for="demo-priority-normal">新規契約の方</label>
                         </div>
                         </div>
+                        <span id="step"></span>
                         <table class=simulation_table>
                             <tr>
                                 <td>
@@ -104,7 +107,7 @@
                 </article>
 
                 <!-- 導入までの流れ -->
-                        <article class="post"  id="step">
+                        <article class="post">
                                     <header class="header_top">
                                         <div class="title_top">
                                                 <h2><?php echo $data['Home']['title4']; ?></h2>
@@ -121,7 +124,7 @@
                                                         <ul>
                                                     <div>
                                             </header>
-                                            <a href="#" class="image"><?php echo $this->Html->image('/img/pic001.jpg', array('width' => '100%')); ?></a>
+                                            <span class="image"><?php echo $this->Html->image('/img/pic001.jpg', array('width' => '100%')); ?></span>
                                     </article>
                                     <article class="mini-introduction mini-post">
                                             <header class='step2'>
@@ -132,7 +135,7 @@
                                                         <ul>
                                                     <div>
                                             </header>
-                                            <a href="#" class="image"><?php echo $this->Html->image('/img/pic002.jpg', array('width' => '100%')); ?></a>
+                                            <span class="image"><?php echo $this->Html->image('/img/pic002.jpg', array('width' => '100%')); ?></span>
                                     </article>
                                     <article class="mini-introduction mini-post">
                                             <header class='step3'>
@@ -143,7 +146,7 @@
                                                         <ul>
                                                     <div>
                                             </header>
-                                            <a href="#" class="image"><?php echo $this->Html->image('/img/pic003.jpg', array('width' => '100%')); ?></a>
+                                            <span class="image"><?php echo $this->Html->image('/img/pic003.jpg', array('width' => '100%')); ?></span>
                                     </article>
 
                                     <article class="mini-introduction mini-post">
@@ -155,11 +158,12 @@
                                                         <ul>
                                                     <div>
                                             </header>
-                                            <a href="#" class="image"><?php echo $this->Html->image('/img/pic004.jpg', array('width' => '100%')); ?></a>
+                                            <span class="image"><?php echo $this->Html->image('/img/pic004.jpg', array('width' => '100%')); ?></span>
                                     </article>
 
 
-                                <p class="step_word"><a href="#"><?php echo $data['Home']['step_description']; ?></p>
+                                <p class="step_word"><?php echo $data['Home']['step_description']; ?></p>
+                                <span id='case'></span>
                                 <footer>
                                         <ul class="actions">
                                                 <li><a href="#form_area" class="button big contact_btn">お問い合わせ</a></li>
@@ -198,9 +202,9 @@
 --!>
 
 
-
+                        <!-- 導入事例 -->
                         <article class="post">
-                            <header class="header_top">
+                            <header class="header_top" >
                                         <div class="title_top">
                                                 <h2><?php echo $data['Home']['title5']; ?></h2>
                                                 <p class="top_text">Lorem ipsum dolor amet nullam consequat etiam feugiat</p>
@@ -212,56 +216,45 @@
                                         <li>
                                             <article>
                                                 <header class="introduction_header">
-                                                    <a href="#">
-                                                        <span class="img left">
-                                                            <?php echo $this->Html->image('/img/koe01.jpg', array('width' => '100%')); ?>
-                                                        </span>
-                                                        <h2>
-                                                            <?php echo $data['Home']['introduction_title1']; ?>
-                                                        </h2>
-                                                        <?php echo $data['Home']['introduction_text1']; ?>
-                                                    </a>
+                                                    <span class="img left">
+                                                        <?php echo $this->Html->image('/img/koe01.jpg', array('width' => '100%')); ?>
+                                                    </span>
+                                                    <h2>
+                                                        <?php echo $data['Home']['introduction_title1']; ?>
+                                                    </h2>
+                                                    <?php echo $data['Home']['introduction_text1']; ?>
                                                 </header>
                                             </article>
                                         </li>
                                         <li>
                                             <article>
                                                 <header class="introduction_header">
-                                                    <a href="#">
-                                                        <span class="img left">
-                                                            <?php echo $this->Html->image('/img/koe02.jpg', array('width' => '100%')); ?>
-                                                        </span>
-                                                        <h2>
-                                                            <?php echo $data['Home']['introduction_title2']; ?>
-                                                        </h2>
-                                                        <?php echo $data['Home']['introduction_text2']; ?>
-                                                    </a>
+                                                    <span class="img left">
+                                                        <?php echo $this->Html->image('/img/koe02.jpg', array('width' => '100%')); ?>
+                                                    </span>
+                                                    <h2>
+                                                        <?php echo $data['Home']['introduction_title2']; ?>
+                                                    </h2>
+                                                    <?php echo $data['Home']['introduction_text2']; ?>
                                                 </header>
                                             </article>
                                         </li>
                                         <li>
                                             <article>
                                                 <header class="introduction_header">
-                                                    <a href="#">
-                                                        <span class="img left">
-                                                            <?php echo $this->Html->image('/img/koe03.jpg', array('width' => '100%')); ?>
-                                                        </span>
-                                                        <h2>
-                                                            <?php echo $data['Home']['introduction_title3']; ?>
-                                                        </h2>
-                                                        <?php echo $data['Home']['introduction_text3']; ?>
-                                                    </a>
+                                                    <span class="img left">
+                                                        <?php echo $this->Html->image('/img/koe03.jpg', array('width' => '100%')); ?>
+                                                    </span>
+                                                    <h2>
+                                                        <?php echo $data['Home']['introduction_title3']; ?>
+                                                    </h2>
+                                                    <?php echo $data['Home']['introduction_text3']; ?>
                                                 </header>
                                             </article>
                                         </li>
                                 </ul>
                         </section>
-
-
-
-                        </article>
-
-
+                    </article>
             <?php echo $this->element('form'); ?>
         </div>
     <?php echo $this->element('side'); ?>

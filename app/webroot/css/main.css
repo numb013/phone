@@ -57,6 +57,20 @@
             width: 299px; 
             height: 215px;
         }
+
+        @media screen and (max-width: 667px){
+            canvas {
+            width: 100px; 
+            height: 100px;
+            }
+        }
+
+        @media screen and (max-width: 375px){
+            canvas {
+            width: 299px; 
+            height: 215px;
+            }
+        }
         /* Box Model */
 
 	*, *:before, *:after {
@@ -2321,9 +2335,12 @@
 			ul.actions li {
 				display: inline-block;
 				vertical-align: middle;
-                                width: 33%;
+                                width: 32.5%;
 			}
 
+			ul.actions li a{
+                            padding: 0px;
+			}                        
 				ul.actions li:last-child {
 					padding-right: 0;
 				}
@@ -3095,7 +3112,7 @@
                         }
 
                         .mini-introduction{
-                            width: 48.1%;
+                            width: 48%;
                             margin: 6px;
                             float:left;
                         }

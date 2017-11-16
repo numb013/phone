@@ -9,8 +9,8 @@
                 <ul>
                         <li><a href="/phone/">TOP</a></li>
                         <li><a href="/phone/blogs/">記事</a></li>
-                        <li><a href="#">導入までの流れ</a></li>
-                        <li><a href="#">導入事例</a></li>
+                        <li><a href="#step">導入までの流れ</a></li>
+                        <li><a href="#case">導入事例</a></li>
                 </ul>
         </nav>
         <nav class="main">
@@ -34,8 +34,8 @@
                         <ul class="links">
                         <li><a href="/phone/">TOP</a></li>
                         <li><a href="/phone/blogs/">記事</a></li>
-                        <li><a href="#">導入までの流れ</a></li>
-                        <li><a href="#">導入事例</a></li>
+                        <li><a href="#step">導入までの流れ</a></li>
+                        <li><a href="#case">導入事例</a></li>
                         </ul>
                 </section>
 
