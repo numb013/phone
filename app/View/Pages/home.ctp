@@ -19,11 +19,52 @@
                                         <li><a href="#step" class="button top_btn step_btn">導入までの流れ</a></li>
 
                                 </ul>
-
+                                <span id="simulation"></span>
                         </footer>
                 </article>
 
 
+                <article class="post simulation_post">
+                    <header class="header_top">
+                            <div class="title_top simulation_title">
+                              <h2>料金シュミレーション</h2>
+                                <p class="top_text">Price simulation</p>
+                            </div>
+                    </header>
+                    <div>
+                        <p>導入したい法人携帯の台数を入力して実行してください。</p>
+                        <div class="row uniform_radio">
+                            <div class="12u$(small)">
+                                <input type="radio" id="demo-priority-low" name="priority" value="2">
+                                <label for="demo-priority-low">乗り換えの方</label>
+                        </div>
+                        <div class="12u$(small)">
+                                <input type="radio" id="demo-priority-normal" name="priority" value="1" checked>
+                                <label for="demo-priority-normal">新規契約の方</label>
+                        </div>
+                        </div>
+                        <table class=simulation_table>
+                            <tr>
+                                <td>
+                                    <input type="number" class="simulation" style="text-align: center; height: 50px;width: 100%;font-weight: bold;font-size: 28px;padding-left: 12px;">
+                                </tb>
+                                <td style='padding: 0 10px;'>
+                                    台
+                                </td>
+                                <td>
+                                    <button id="button" class="button top_btn simulation_btn"  style='width: 100%'>実行</button>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="simulation_result">
+<div class='application'>
+                      <p>お申込みにかかる導入費用</p>
+                      <p class="simulation_text"></p>
+</div>
+                      <p class="simulation_answer">お得な法人携帯.jpなら<span id="cup"></span>円</p>
+                    </div>
+                </article>
 
 
 
@@ -58,53 +99,13 @@
                                             </header>
                                             <canvas id="line-chart"></canvas>
                                     </article>
-                                <span id="simulation"></span>
+                                    <span id="step"></span>
                                 </div>
                             </div>
                     </section>
                 </article>
-                <article class="post simulation_post">
-                    <header class="header_top">
-                            <div class="title_top simulation_title">
-                              <h2>料金シュミレーション</h2>
-                                <p class="top_text">Price simulation</p>
-                            </div>
-                    </header>
-                    <div>
-                        <p>導入したい法人携帯の台数を入力して実行してください。</p>
-                        <div class="row uniform_radio">
-                            <div class="12u$(small)">
-                                <input type="radio" id="demo-priority-low" name="priority" value="2">
-                                <label for="demo-priority-low">乗り換えの方</label>
-                        </div>
-                        <div class="12u$(small)">
-                                <input type="radio" id="demo-priority-normal" name="priority" value="1" checked>
-                                <label for="demo-priority-normal">新規契約の方</label>
-                        </div>
-                        </div>
-                        <span id="step"></span>
-                        <table class=simulation_table>
-                            <tr>
-                                <td>
-                                    <input type="number" class="simulation" style="text-align: center; height: 50px;width: 100%;font-weight: bold;font-size: 28px;padding-left: 12px;">
-                                </tb>
-                                <td style='padding: 0 10px;'>
-                                    台
-                                </td>
-                                <td>
-                                    <button id="button" class="button top_btn simulation_btn"  style='width: 100%'>実行</button>
-                                </td>
-                            </tr>
-                        </table>
-                    </div>
-                    <div class="simulation_result">
-<div class='application'>
-                      <p>お申込みにかかる導入費用</p>
-                      <p class="simulation_text"></p>
-</div>
-                      <p class="simulation_answer">お得な法人携帯.jpなら<span id="cup"></span>円</p>
-                    </div>
-                </article>
+
+
 
                 <!-- 導入までの流れ -->
                         <article class="post">
@@ -162,7 +163,13 @@
                                     </article>
 
 
-                                <p class="step_word"><?php echo $data['Home']['step_description']; ?></p>
+                                <p class="step_word">
+                                    <?php //echo $data['Home']['step_description']; ?>
+                                    導入について様々な問題があり 乗り換えや新規契約をいただく中で 最適な提案も重要ですが、導入まで 滞りなく進めさせていただけます。<br><br> 
+                                    さまざまな業種状態の法人様へ 導入に至らない場合でも、多くの経験と情報を元に最善の策をご案内いたします。 <br><br>
+                                    プロのモバイルコンサルタントが、お客様のお悩みを解決 させていただきます。 <br>
+                                    モバイルコンサルタントは法人専任者となりますので、ご安心ください。<br>
+                                </p>
                                 <span id='case'></span>
                                 <footer>
                                         <ul class="actions">
@@ -170,36 +177,6 @@
                                         </ul>
                                 </footer>
                         </article>
-
-<!--
-                <article>
-                    <section>
-                            <h2><?php echo $data['Home']['title2']; ?></h2>
-                            <div class="box alt">
-                                    <div class="row uniform">
-                                        <article class="mini-burdent mini-post">
-                                                <header>
-                                                        <h3><a href="#"><?php echo $data['Home']['word1']; ?></a></h3>
-                                                </header>
-                                                <a href="#" class="image"><?php echo $this->Html->image('/img/person4.jpg', array('width' => '100%')); ?></a>
-                                        </article>
-                                        <article class="mini-burdent mini-post">
-                                                <header>
-                                                        <h3><a href="#"><?php echo $data['Home']['word1']; ?></a></h3>
-                                                </header>
-                                                <a href="#" class="image"><?php echo $this->Html->image('/img/person4.jpg', array('width' => '100%')); ?></a>
-                                        </article>
-                                        <article class="mini-burdent mini-post">
-                                                <header>
-                                                        <h3><a href="#"><?php echo $data['Home']['word1']; ?></a></h3>
-                                                </header>
-                                                <a href="#" class="image"><?php echo $this->Html->image('/img/person4.jpg', array('width' => '100%')); ?></a>
-                                        </article>
-                                    </div>
-                            </div>
-                    </section>
-                </article>
---!>
 
 
                         <!-- 導入事例 -->
@@ -222,7 +199,8 @@
                                                     <h2>
                                                         <?php echo $data['Home']['introduction_title1']; ?>
                                                     </h2>
-                                                    <?php echo $data['Home']['introduction_text1']; ?>
+                                                    <?php //echo $data['Home']['introduction_text1']; ?>
+                                                        230台のスマホを社内のみで利用。月に126万円の費用だった通信費が月69万円に削減しました。<b style="color: #e03131;">年間684万円のコストカット</b>に成功！！
                                                 </header>
                                             </article>
                                         </li>
@@ -235,7 +213,8 @@
                                                     <h2>
                                                         <?php echo $data['Home']['introduction_title2']; ?>
                                                     </h2>
-                                                    <?php echo $data['Home']['introduction_text2']; ?>
+                                                    <?php //echo $data['Home']['introduction_text2']; ?>
+                                                        80台のスマホを使用しており、月に60万円のコストが掛かっておりましたが乗り換えをする事により約32万円、月に削減できました！！ <b style="color: #e03131;">年間336万円のコストカット</b>となりました。
                                                 </header>
                                             </article>
                                         </li>
@@ -248,7 +227,8 @@
                                                     <h2>
                                                         <?php echo $data['Home']['introduction_title3']; ?>
                                                     </h2>
-                                                    <?php echo $data['Home']['introduction_text3']; ?>
+                                                    <?php //echo $data['Home']['introduction_text3']; ?>
+                                                        20台の携帯を使用していたX社、業務柄パケットの利用も多く月に16万掛かっておりました。切り替えにより多く7万に抑える事に成功！！<b style="color: #e03131;">年間110万円のコスト削減</b>できました。
                                                 </header>
                                             </article>
                                         </li>
@@ -258,7 +238,10 @@
             <?php echo $this->element('form'); ?>
         </div>
     <?php echo $this->element('side'); ?>
-
+<div class="footer_set">
+    <p class="copyright">© Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>. Images: <a href="http://unsplash.com">Unsplash</a>.</p>
+</div>
+</div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
 <script>
     //円グラフ

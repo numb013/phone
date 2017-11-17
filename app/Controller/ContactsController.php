@@ -83,10 +83,21 @@ class ContactsController extends AppController {
               $honbun.="また、当サイトと関連していない問い合わせについては \n";
               $honbun.="ご対応致しかねますので予めご了承のほどお願い申し上げます\n";
               $honbun.="\n";
+              $honbun.="\n";
+
+              $honbun.="【お問い合わせ内容】";
+              $honbun.="会社名:".$content['company_name']."\n";
+              $honbun.="担当者名:".$content['contact_name']."\n";
+              $honbun.="都道府県:".$content['prefecture']."\n";
+              $honbun.="電話番号:".$content['phone_number']."\n";
+              $honbun.="メールアドレス:".$content['mail_address']."\n";
+              $honbun.="契約希望台数:".$content['desired_number']."\n";
+              $honbun.="お問合せ内容:".$content['text']."\n";
+              $honbun.="\n";
 
               $honbun.="□□□□□□□□□□□□□□□□□\n";
               $honbun.="\n";
-              $honbun.="『FUD-24』簡単で当たる！職業診断係";
+              $honbun.="お得な法人携帯";
               $honbun.="\n";
               $honbun.="メール oneblow0701@gmail.com\n";
               $honbun.="\n";
@@ -94,7 +105,7 @@ class ContactsController extends AppController {
 
 
               $title= 'お問い合わせありがとうございました。';
-              $header = 'From:FUD-24 簡単で当たる！職業診断';
+              $header = 'From:お得な法人携帯';
               $honbun = html_entity_decode($honbun, ENT_QUOTES, 'UTF-8');
               $header = mb_encode_mimeheader($header);
 
@@ -105,7 +116,18 @@ class ContactsController extends AppController {
                $title= 'お客様からお問い合わがありました。';
                $header = 'From:'.$content['mail_address'];
                $message = html_entity_decode($content['text'], ENT_QUOTES, 'UTF-8');
-               mb_send_mail('oneblow0701@gmail.com' ,$title, $content['text'], $header);
+
+               $honbun='';
+                 $honbun.="会社名:".$content['company_name']."\n";
+                 $honbun.="担当者名:".$content['contact_name']."\n";
+                 $honbun.="都道府県:".$content['prefecture']."\n";
+                 $honbun.="電話番号:".$content['phone_number']."\n";
+                 $honbun.="メールアドレス:".$content['mail_address']."\n";
+                 $honbun.="契約希望台数:".$content['desired_number']."\n";
+                 $honbun.="お問合せ内容:".$content['text']."\n";
+                 $honbun.="\n";
+
+               mb_send_mail('oneblow0701@gmail.com' ,$title, $honbun, $header);
                return true;
             } else {
                return false;
