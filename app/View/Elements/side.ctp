@@ -15,8 +15,11 @@
                                                     <a href="/blogs/detail/<?php echo $data['Blog']['id']; ?>">
                                                             <article class="mini-post">
                                                                     <header>
-                                                                            <h3><?php echo $data['Blog']['title']; ?></h3>
-                                                                            <time class="published" datetime=<?php echo $data['Blog']['modified']; ?>><?php echo date('Y-m-d ',  strtotime($data['Blog']['modified'])); ?></time>
+                        <h3><?php echo $data['Blog']['title']; ?></h3>
+                        <div style="line-height: 17px; font-size: 13px;">
+                        <?php echo mb_strimwidth($data['Blog']['text_1'], 0, 150, "..."); ?>
+                        </div>
+                        <time class="published" datetime=<?php echo $data['Blog']['modified']; ?>><?php echo date('Y-m-d ',  strtotime($data['Blog']['modified'])); ?></time>
                                                                     </header>
                                                                     <span class="image"><?php echo $this->Html->image($data['Image'][0]['url'] ,array('width' => '100%' )); ?></span>
                                                             </article>

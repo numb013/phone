@@ -71,11 +71,11 @@ App::uses('Debugger', 'Utility');
                         </table>
                     </div>
                     <div class="simulation_result">
-					<div class='application'>
+<div class='application'>
                       <p>お申込みにかかる導入費用</p>
                       <p class="simulation_text"></p>
-					 </div>
-                     <p class="simulation_answer">お得な法人携帯.jpなら<span id="cup"></span>円</p>
+</div>
+                      <p class="simulation_answer">お得な法人携帯.jpなら<span id="cup"></span>円</p>
                     </div>
                 </article>
 
@@ -97,10 +97,10 @@ App::uses('Debugger', 'Utility');
                                     <article class="mini-burdent mini-post">
                                             <header>
                                                     <h3><?php echo $data['Home']['description2']; ?></h3>
-                                            <div style="display: inline-block; margin-top: 10px">
+                                            <div>
                                                 <ul class='graph'>
-                                                    <li><span style='color: #e2a9c8; font-size: 15px'>■</span>:携帯電話配布率  </li>
-                                                    <li><span style='color: #a5d4f4; font-size: 15px'>■</span>:スマホの配布率</li>
+                                                    <li><span style='color: #e2a9c8; font-size: 33px'>■</span>:携帯電話配布率</li>
+                                                    <li><span style='color: #a5d4f4; font-size: 33px'>■</span>:スマホの配布率</li>
                                                 </ul>
                                             </div>
                                             </header>
@@ -251,9 +251,9 @@ App::uses('Debugger', 'Utility');
             <?php echo $this->element('form'); ?>
         </div>
     <?php echo $this->element('side'); ?>
-<!-- <div class="footer_set">
+<div class="footer_set">
     <p class="copyright">© Untitled. Design: <a href="http://html5up.net">HTML5 UP</a>. Images: <a href="http://unsplash.com">Unsplash</a>.</p>
-</div> -->
+</div>
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
 <script>
@@ -302,7 +302,7 @@ App::uses('Debugger', 'Utility');
 
     //縦グラフ
   var barChartData = {
-    labels : ["2015年","2016年","2017年"],
+    labels : ["2015年","2016年","2015年"],
     datasets : [
       {
         fillColor : /*"#d685b0"*/"rgba(214,133,176,0.7)",

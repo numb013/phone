@@ -66,27 +66,29 @@
  */
 class DATABASE_CONFIG {
 
-	 public $default = array(
-	 	'datasource' => 'Database/Mysql',
-	 	'persistent' => false,
-	 	'host' => 'localhost',
-	 	'login' => 'root',
-	 	'password' => '',
-	 	'database' => 'phone',
-	 	'prefix' => '',
-	 	'encoding' => 'utf8',
-	 );
+//	 public $default = array(
+//	 	'datasource' => 'Database/Mysql',
+//	 	'persistent' => false,
+//	 	'host' => 'localhost',
+//	 	'login' => 'root',
+//	 	'password' => '',
+//	 	'database' => 'phone',
+//	 	'prefix' => '',
+//	 	'encoding' => 'utf8',
+//	 );
 
-//	public $default = array(
-//		'datasource' => 'Database/Mysql',
-//		'persistent' => false,
-//		'host' => 'mysql603.db.sakura.ne.jp',
-//		'login' => 'fdu24',
-//		'password' => '45ykzxm5n4',
-//		'database' => 'fdu24_phone',
-//		'prefix' => '',
-//		'encoding' => 'utf8',
-//	);         
+	public $default = array(
+		'datasource' => 'Database/Mysql',
+		'persistent' => false,
+		'host' => 'localhost',
+		'login' => 'root',
+		'password' => 'root',
+		'database' => 'phone',
+		'prefix' => '',
+		'encoding' => 'utf8',
+            'port' => 3306,
+            'unix_scoket' => '/Applications/MAMP/tmp/mysql/mysql.sock',
+	);     
          
 //	public $test = array(
 //		'datasource' => 'Database/Mysql',

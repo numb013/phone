@@ -45633,3 +45633,1201 @@ Request URL: /phone/list
 Stack Trace:
 #0 C:\xampp\htdocs\phone\app\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2017-11-18 01:45:52 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 01:45:52 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:48:39 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:48:39 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:49:05 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:49:05 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:53:15 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:53:15 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:53:41 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:53:41 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:54:21 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:54:21 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:54:34 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:54:34 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:55:04 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:55:05 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:55:27 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:55:27 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:55:50 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:55:50 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:57:32 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:57:32 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:59:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 03:59:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:03:49 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:03:49 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:03:58 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:03:58 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:04:16 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:04:16 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:04:29 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:04:29 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:04:42 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:04:42 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:04:45 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:04:45 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:05:33 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:05:33 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:05:44 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:05:44 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:06:59 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:06:59 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:07:42 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:07:42 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:07:47 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:07:47 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:08:41 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:08:41 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:09:41 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:09:41 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:10:27 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:10:27 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:10:51 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:10:51 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:11:46 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:11:46 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:12:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:12:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:13:29 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:13:29 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:23:54 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:23:54 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:24:05 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:24:05 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:24:53 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/admin
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:24:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:24:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:24:57 Error: [MissingTableException] Table dashboards for model Dashboard was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'dashboards',
+  'class' => 'Dashboard',
+  'ds' => 'default',
+)
+Request URL: /PHONE/Dashboards
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Model/Model.php(3653): Model->setSource('dashboards')
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Model/Model.php(3031): Model->getDataSource()
+#2 /Applications/MAMP/htdocs/PHONE/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#3 /Applications/MAMP/htdocs/PHONE/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#4 /Applications/MAMP/htdocs/PHONE/lib/Cake/Controller/Controller.php(1086): PaginatorComponent->paginate(Object(Dashboard), Array, Array)
+#5 /Applications/MAMP/htdocs/PHONE/app/Controller/AppController.php(27): Controller->paginate()
+#6 [internal function]: AppController->index()
+#7 /Applications/MAMP/htdocs/PHONE/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DashboardsController), Array)
+#8 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardsController), Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2017-11-18 04:25:06 Error: [MissingTableException] Table dashboards for model Dashboard was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'dashboards',
+  'class' => 'Dashboard',
+  'ds' => 'default',
+)
+Request URL: /PHONE/Dashboards/index/class:navbar-brand
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Model/Model.php(3653): Model->setSource('dashboards')
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Model/Model.php(3031): Model->getDataSource()
+#2 /Applications/MAMP/htdocs/PHONE/lib/Cake/Model/Model.php(3003): Model->_readDataSource('all', Array)
+#3 /Applications/MAMP/htdocs/PHONE/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#4 /Applications/MAMP/htdocs/PHONE/lib/Cake/Controller/Controller.php(1086): PaginatorComponent->paginate(Object(Dashboard), Array, Array)
+#5 /Applications/MAMP/htdocs/PHONE/app/Controller/AppController.php(27): Controller->paginate()
+#6 [internal function]: AppController->index()
+#7 /Applications/MAMP/htdocs/PHONE/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DashboardsController), Array)
+#8 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DashboardsController), Object(CakeRequest))
+#10 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2017-11-18 04:25:14 Error: [MissingActionException] Action UsersController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/users/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 04:25:16 Error: [MissingActionException] Action UsersController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/users/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 04:25:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/admin/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:25:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/jquery-2.2.3.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:25:59 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171006230942_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:25:59 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20171011105424_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:25:59 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/jquery-2.2.3.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:26:35 Error: [MissingActionException] Action BlogsController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'BlogsController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/blogs/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(BlogsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 04:26:37 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/admin/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:26:47 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:30:51 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:31:18 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:32:57 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:33:05 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:33:09 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:33:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:35:08 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:35:22 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:35:58 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:36:16 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:36:44 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:37:02 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:37:18 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:38:51 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:39:12 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:39:30 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:40:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/jquery-2.2.3.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:40:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/jquery-2.2.3.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:40:45 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:41:08 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:41:32 Error: [MissingActionException] Action BlogsController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'BlogsController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/blogs/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(BlogsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 04:41:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/admin/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:41:42 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:42:02 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:45:11 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:46:10 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:46:40 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:46:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/jquery-2.2.3.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:46:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/jquery-2.2.3.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:47:11 Error: [MissingActionException] Action BlogsController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'BlogsController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/blogs/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(BlogsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 04:47:13 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/admin/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:47:17 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /phone/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:47:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/jquery-2.2.3.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:47:29 Error: [MissingControllerException] Controller class FilesController could not be found.
+Exception Attributes: array (
+  'class' => 'FilesController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/files/updir/20170825161216_0.jpeg
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:47:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/jquery-2.2.3.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:47:44 Error: [MissingActionException] Action BlogsController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'BlogsController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/blogs/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(BlogsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 04:47:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/admin/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:57:46 Error: [MissingActionException] Action UsersController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/users/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 04:57:46 Error: [MissingActionException] Action UsersController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/users/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 04:57:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/jquery-2.2.3.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:57:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/admin/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:57:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/admin/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:58:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/js/jquery-2.2.3.min.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 04:58:24 Error: [MissingActionException] Action BlogsController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'BlogsController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/blogs/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/PHONE/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(BlogsController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 04:58:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/admin/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-11-18 06:04:09 Error: [MissingActionException] Action UsersController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/users/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/phone/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 06:04:10 Error: [MissingActionException] Action UsersController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/users/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/phone/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 06:04:15 Error: [MissingActionException] Action UsersController::admin_js() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'admin_js',
+)
+Request URL: /PHONE/admin/users/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/phone/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/MAMP/htdocs/phone/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-11-18 06:04:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /PHONE/admin/js/ajaxzip3.js
+Stack Trace:
+#0 /Applications/MAMP/htdocs/PHONE/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
